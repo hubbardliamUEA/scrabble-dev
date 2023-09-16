@@ -1,5 +1,3 @@
-# scrabble-dev
-Dev test
 Test Readme
 
 PHP Version: 7.4
