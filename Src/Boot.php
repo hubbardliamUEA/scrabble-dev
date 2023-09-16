@@ -100,7 +100,7 @@ class Boot
     {
         return sprintf(
             "%s/%s/%s",
-            implode('/', array($this->getRoot(), $this->dictionaryPath)),
+            implode('/', array($this->getRoot(), $this->dictionaryPPath)),
             $this->getLocale(),
             $name
         );
